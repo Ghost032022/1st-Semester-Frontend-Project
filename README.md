@@ -27,5 +27,7 @@ The app generates 15 random questions from a larger question bank and provides a
 
 ## Project Structure
 ├── index.html
+
 ├── style.css
+
 ├── script.js
